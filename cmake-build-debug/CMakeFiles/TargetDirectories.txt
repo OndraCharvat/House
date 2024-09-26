@@ -1,0 +1,3 @@
+/Users/ondrejcharvat/CLionProjects/FirstProject/cmake-build-debug/CMakeFiles/FirstProject.dir
+/Users/ondrejcharvat/CLionProjects/FirstProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ondrejcharvat/CLionProjects/FirstProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
